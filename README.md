@@ -1,11 +1,11 @@
-About r-survtmle
-================
+About r-survtmle-feedstock
+==========================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-survtmle-feedstock/blob/main/LICENSE.txt)
 
 Home: https://github.com/benkeser/survtmle
 
 Package license: MIT
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-survtmle-feedstock/blob/main/LICENSE.txt)
 
 Summary: Targeted estimates of marginal cumulative incidence in survival settings with and without competing risks, including estimators that respect bounds (Benkeser, Carone, and Gilbert. Statistics in Medicine, 2017. <doi:10.1002/sim.7337>).
 
