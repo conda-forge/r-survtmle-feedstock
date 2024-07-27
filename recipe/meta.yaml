@@ -1,6 +1,5 @@
 {% set version = '1.1.1' %}
 {% set posix = 'm2-' if win else '' %}
-{% set native = 'm2w64-' if win else '' %}
 
 package:
   name: r-survtmle
@@ -13,8 +12,7 @@ source:
   sha256: d286799265f35f2ae7631f2f1714936ff2b1866cdd95a2848c252482f9ce23d0
 
 build:
-  merge_build_host: True  # [win]
-  number: 2
+  number: 3
   noarch: generic
   rpaths:
     - lib/R/lib/
